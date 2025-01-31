@@ -19,6 +19,12 @@
 // Console.WriteLine(!pangram.Contains("cow"));
 
 
-int saleAmount = 1001;
-int discount = saleAmount > 1000 ? 100 : 50;
-Console.WriteLine($"Discount: {discount}");
+// int saleAmount = 1001;
+// int discount = saleAmount > 1000 ? 100 : 50;
+// Console.WriteLine($"Discount: {(saleAmount > 1000 ? 100 : 50)}");
+
+using System.Runtime.InteropServices;
+
+int coin = new Random().Next(0, 2);
+string side = coin == 0 ? "heads" : "tails";
+Console.WriteLine(side);
