@@ -1,0 +1,15 @@
+/Users/fabianamenna/Desktop/projects/MicrosoftLearn/evaluate-boolean-expressions/bin/Debug/net8.0/evaluate-boolean-expressions
+/Users/fabianamenna/Desktop/projects/MicrosoftLearn/evaluate-boolean-expressions/bin/Debug/net8.0/evaluate-boolean-expressions.deps.json
+/Users/fabianamenna/Desktop/projects/MicrosoftLearn/evaluate-boolean-expressions/bin/Debug/net8.0/evaluate-boolean-expressions.runtimeconfig.json
+/Users/fabianamenna/Desktop/projects/MicrosoftLearn/evaluate-boolean-expressions/bin/Debug/net8.0/evaluate-boolean-expressions.dll
+/Users/fabianamenna/Desktop/projects/MicrosoftLearn/evaluate-boolean-expressions/bin/Debug/net8.0/evaluate-boolean-expressions.pdb
+/Users/fabianamenna/Desktop/projects/MicrosoftLearn/evaluate-boolean-expressions/obj/Debug/net8.0/evaluate-boolean-expressions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabianamenna/Desktop/projects/MicrosoftLearn/evaluate-boolean-expressions/obj/Debug/net8.0/evaluate-boolean-expressions.AssemblyInfoInputs.cache
+/Users/fabianamenna/Desktop/projects/MicrosoftLearn/evaluate-boolean-expressions/obj/Debug/net8.0/evaluate-boolean-expressions.AssemblyInfo.cs
+/Users/fabianamenna/Desktop/projects/MicrosoftLearn/evaluate-boolean-expressions/obj/Debug/net8.0/evaluate-boolean-expressions.csproj.CoreCompileInputs.cache
+/Users/fabianamenna/Desktop/projects/MicrosoftLearn/evaluate-boolean-expressions/obj/Debug/net8.0/evaluate-boolean-expressions.sourcelink.json
+/Users/fabianamenna/Desktop/projects/MicrosoftLearn/evaluate-boolean-expressions/obj/Debug/net8.0/evaluate-boolean-expressions.dll
+/Users/fabianamenna/Desktop/projects/MicrosoftLearn/evaluate-boolean-expressions/obj/Debug/net8.0/refint/evaluate-boolean-expressions.dll
+/Users/fabianamenna/Desktop/projects/MicrosoftLearn/evaluate-boolean-expressions/obj/Debug/net8.0/evaluate-boolean-expressions.pdb
+/Users/fabianamenna/Desktop/projects/MicrosoftLearn/evaluate-boolean-expressions/obj/Debug/net8.0/evaluate-boolean-expressions.genruntimeconfig.cache
+/Users/fabianamenna/Desktop/projects/MicrosoftLearn/evaluate-boolean-expressions/obj/Debug/net8.0/ref/evaluate-boolean-expressions.dll
